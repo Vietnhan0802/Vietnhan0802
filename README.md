@@ -8,7 +8,7 @@ I'm a tech enthusiast with a strong passion for all things technology. I love en
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [vvnhan.work@gmail.com](mailto:vvnhan.work@gmail.com)
-* 🧠  I'm learning ReactJs,NextJs and .Net Core
+* 🧠  I'm learning ReactJs, NextJs and .Net Core
 * 🤝  I'm open to collaborating on any Web Project
 * ⚡  I'm secretly a superman but don't tell anyone
 
